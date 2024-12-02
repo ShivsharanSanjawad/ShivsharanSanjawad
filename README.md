@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Shivsharan</h1>
 <h3 align="center">Computer Engineering Student </h3>
 
-- 📫 How to reach me **shivsharansanjawad@gmail.com**
+-  How to reach me **shivsharansanjawad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
