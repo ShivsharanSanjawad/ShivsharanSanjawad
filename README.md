@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivsharan</h1>
+<h1 align="center">Hi , I'm Shivsharan</h1>
 <h3 align="center">Computer Engineering Student |</h3>
 
 - 📫 How to reach me **shivsharansanjawad@gmail.com**
