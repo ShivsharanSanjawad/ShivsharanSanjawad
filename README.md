@@ -1,7 +1,9 @@
-<h1 align="center">Hey Hi, I'm Shivsharan</h1> 
+<h1 align="center">Hey Hi, I'm Shivsharan</h1>
 
-### My Primary Technical Interests : 
+### My Primary Technical Interests:
 Backend Development, AI/ML, DSA/CP
+
+---
 
 ### Technical Skills
 
@@ -21,28 +23,13 @@ Backend Development, AI/ML, DSA/CP
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### I am always willing to learn and explore new tech. 
+---
+
+### I am always willing to learn and explore new tech.
+
+---
 
 ### Contact
 
-**Email:** [shivsharansanjawad@gmail.com](mailto:shivsharansanjawad@gmail.com)
-**LinkedIn:** [https://www.linkedin.com/in/shivsharan-sanjawad/](https://www.linkedin.com/in/shivsharan-sanjawad/)
-
-
-
-
-
-<!--
-**ShivsharanSanjawad/ShivsharanSanjawad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Email:** [shivsharansanjawad@gmail.com](mailto:shivsharansanjawad@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/shivsharan-sanjawad/](https://www.linkedin.com/in/shivsharan-sanjawad/)
